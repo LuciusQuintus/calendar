@@ -1,0 +1,998 @@
+BEGIN:VCALENDAR
+NAME:Sonarr TV Schedule
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:Sonarr TV Schedule
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DESCRIPTION:River goes after Sid. Lamb sets his sights on Cantor. Taverner
+  carries on with a treacherous deal.
+DTEND:20261014T044600Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261014T040000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Slow Horses - 6x05 - Sayonara
+UID:NzbDrone_episode_38372
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FX
+DESCRIPTION:Lee's acceptance speech for Citizen Journalist of the Year lea
+ ves quite an impression.
+DTEND:20261015T015100Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Lowdown (2025) - 2x01 - The Rupidoop
+UID:NzbDrone_episode_38979
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FX
+DESCRIPTION:Chili spills the beans.
+DTEND:20261015T024200Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T015100Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Lowdown (2025) - 2x02 - Whiskey Bent and Hell Bound
+UID:NzbDrone_episode_38980
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Camp Crystal Lake's idyllic summer is cut short by Jason's dea
+ th\; as the town moves on\, Pam continues looking for him\; Levon invites
+  her to Founder's Day\, but it only triggers Pam's pain\; as she runs fro
+ m her present\, Pam is soon met with her past.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crystal Lake - 1x01 - Camp Crystal
+UID:NzbDrone_episode_31877
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:While on a date with Levon\, Pam bumps into Rita and is invite
+ d to a weekend seminar with a self-help guru\; Grace goes to a high schoo
+ l party only to be sent away by Claudette\; something sinister takes reve
+ nge for Grace.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crystal Lake - 1x02 - Part 2
+UID:NzbDrone_episode_34224
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:The townspeople go bear hunting against Levon's orders\; Pam a
+ nd Levon bond over the loss of their loved ones\; Pam visits Grace at her
+  apartment and suspects she is being abused\, leading to a confrontation 
+ with her mother\, Valerie.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crystal Lake - 1x03 - Part III
+UID:NzbDrone_episode_34225
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Willow looks for her friends\; Pam returns to work at the camp
+  alongside a group of new counselors.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crystal Lake - 1x04 - A New Beginning
+UID:NzbDrone_episode_34226
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Camp Crystal Lake reopens despite the mounting death toll\; Pa
+ m discovers life-changing news.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crystal Lake - 1x05 - The New Blood
+UID:NzbDrone_episode_34227
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:The counselors' drug trip takes a chilling turn\; Briana recei
+ ves a mysterious envelope.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crystal Lake - 1x06 - Kill Them\, Mommy
+UID:NzbDrone_episode_34228
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:In the past\, a young Jason shows alarming symptoms that lead 
+ Pam to question life as she knows it.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crystal Lake - 1x07 - Friday...
+UID:NzbDrone_episode_34229
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Elias arrives in Crystal Lake determined to find his family\; 
+ Levon and Elias have a heated clash.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crystal Lake - 1x08 - The Final Chapter
+UID:NzbDrone_episode_34230
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:On an unplanned stopover at Windsor Castle\, Kate grows wary o
+ f Hal and Grace's dynamic as she tries to contain the fallout from their 
+ covert actions.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Diplomat - 4x01 - Windsor
+UID:NzbDrone_episode_35024
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:A shocking security breach sends the administration into crisi
+ s as Hal assumes new duties. Trowbridge launches a manhunt\, and Kate loo
+ ks to the future.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Diplomat - 4x02 - Redcoats
+UID:NzbDrone_episode_39003
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:A budgetary snag threatens to torpedo negotiations\, with cost
+ ly implications for the US. Stuart and Eidra get personal as they weigh t
+ heir next move.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Diplomat - 4x03 - The Typo
+UID:NzbDrone_episode_39004
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:After Hal drops a bombshell that throws the UK alliance into j
+ eopardy\, Kate faces mounting pressure to control the damage by any means
+  necessary.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Diplomat - 4x04 - Pagliacci
+UID:NzbDrone_episode_39005
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:Kate contends with her complicity in a stunning political shak
+ e-up\, while a disenchanted Todd explores his options across the pond.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Diplomat - 4x05 - Special Envoy
+UID:NzbDrone_episode_39006
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:When a dangerous adversary makes its move\, Grace issues a har
+ d-line threat to the prime minister\, forcing Kate to reckon with her rol
+ e as the messenger.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Diplomat - 4x06 - The Dead
+UID:NzbDrone_episode_39007
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:Personal and political lives collide — and damaging secrets su
+ rface — when Kate and Hal join Grace and Todd in Italy ahead of the G7 su
+ mmit.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Diplomat - 4x07 - Phony Negroni
+UID:NzbDrone_episode_39008
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:At a meeting of world leaders\, a diplomatic breakdown edges t
+ he US closer to an international crisis — and compels Kate to make a seis
+ mic decision.
+DTEND:20261015T075000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261015T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Diplomat - 4x08 - Warships
+UID:NzbDrone_episode_39009
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FX
+DESCRIPTION:Alone and at a loss\, Constance risks everything to reinvent h
+ er family's fate.
+DTEND:20261016T024400Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261016T020000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:American Horror Story - 13x09 - The Devil is in the Details
+UID:NzbDrone_episode_38970
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FX
+DESCRIPTION:Under threat\, the witches learn of an ancient evil that has s
+ haped history's darkest hours.
+DTEND:20261016T032800Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261016T024400Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:American Horror Story - 13x10 - The Prodigal Son
+UID:NzbDrone_episode_38971
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:Conrad declares war\, stacking bodies and turning the Cotswold
+ s into a fortress. Maeve plays puppet-master\, sending Eddie on a mission
+  before secrets start to spill and a hit hurtles the Harrigans into all‑o
+ ut chaos.
+DTEND:20261016T074700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261016T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MobLand - 2x05 - Birdland
+UID:NzbDrone_episode_38738
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:Team Avatar looks for a missing bender\, leading them into a d
+ angerous confrontation with a team of bandits.
+DTEND:20261016T072300Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261016T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Avatar: Seven Havens - 1x04 - The Faceless
+UID:NzbDrone_episode_39248
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:While Jae and Karthik investigate rumors that endanger the gir
+ ls\, Pavi and Nisha sneak into Karthik's office to look for answers about
+  their parents.
+DTEND:20261016T074600Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261016T072300Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Avatar: Seven Havens - 1x05 - The One Left Behind
+UID:NzbDrone_episode_39249
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:Karthik\, Nisha\, and Pavi must quell a mass panic amongst the
+  Afflicted in the hospital. Meanwhile\, Jae deals with unrest in the Bend
+ ing Brigade.
+DTEND:20261016T080900Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261016T074600Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Avatar: Seven Havens - 1x06 - Night of the Afflicted
+UID:NzbDrone_episode_39250
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:5
+DESCRIPTION:Jolyon Snr rewrites his will\, family tensions simmer. Phil ov
+ ersteps\, June faces a painful realisation\, and Irene attempts to break 
+ free from Soames's control.
+DTEND:20261018T204900Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261018T200000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Forsytes - 2x06 - Episode 6
+UID:NzbDrone_episode_39786
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FOX
+DESCRIPTION:All hell breaks loose on Halloween when a killer comes to Spri
+ ngfield and hacks their way through town. No Simpson is safe from... THE 
+ REVENGENING!
+DTEND:20261019T002400Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261019T000000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Simpsons - 38x03 - Treehouse of Horror Presents: The Revengeni
+ ng
+UID:NzbDrone_episode_39624
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:Colter gets hired to track down a woman who disappeared after 
+ an argument with her husband in a deserted Texas town. Meanwhile\, an une
+ xpected reunion with an old friend\, Adam Shevlin\, forces Reenie to revi
+ sit her past.
+DTEND:20261019T014200Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261019T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tracker (2024) - 4x03 - Original Parts
+UID:NzbDrone_episode_39306
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:MGM+
+DESCRIPTION:Onboard the Hispaniola\, Bess targets Graham for protection as
+  Long John lays the groundwork for mutiny with the crew\; when violence e
+ rupts\, Jim makes a calculated move that shifts the balance\, tipping the
+  scales in Long John's favor.
+DTEND:20261019T024500Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261019T020000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Treasure Island (2026) - 1x02 - Great Britain
+UID:NzbDrone_episode_39789
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Channel 4
+DESCRIPTION:The bakers make a self-saucing Signature and take a trip down 
+ memory lane on retro dessert trolleys. Who'll roll merrily along\, and wh
+ ose wheels will come off?
+DTEND:20261020T200000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261020T190000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great British Bake Off - 17x05 - Dessert Week
+UID:NzbDrone_episode_38994
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:A former edgerunner slipping into cyberpsychosis and a lonely 
+ survivor with a fractured past start their stories at opposite ends of Ni
+ ght City.
+DTEND:20261020T202700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261020T200000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x01 - Last Chance for a Slow Dance
+UID:NzbDrone_episode_34151
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:A desperate call drags Weak back into danger to save a rebelli
+ ous teen. As D bonds with a young cinephile\, painful flashbacks fuel his
+  thirst for revenge.
+DTEND:20261020T202700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261020T200000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x02 - Give Me Another Day
+UID:NzbDrone_episode_34152
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:Weak tries to rescue Talia from a dangerous surgery\, but the 
+ confrontation ends in disaster. D and Roman discover a chaotic chip that 
+ sparks mayhem.
+DTEND:20261020T202700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261020T200000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x03 - 0 + 2 = 1
+UID:NzbDrone_episode_34153
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:Armed with abilities he doesn't fully understand\, D uses Capr
+ i's power to infiltrate an Arasaka research facility. Talia and Weak find
+  common ground.
+DTEND:20261020T202700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261020T200000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x04 - Someone That I Used to Know
+UID:NzbDrone_episode_34154
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:An impulsive act sends Talia into a terrifying spiral. D's obs
+ ession with revenge reaches an unsettling new level of violence.
+DTEND:20261020T202700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261020T200000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x05 - Fades (Pass the Distance)
+UID:NzbDrone_episode_34155
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:D becomes an anti-corporate vigilante and asks Roman to film h
+ is every move. Weak looks into rumors of tech that can transfer digitized
+  consciousness.
+DTEND:20261020T202700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261020T200000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x06 - Everything Hate
+UID:NzbDrone_episode_34156
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:Talia's condition takes a startling turn under Capri's watch. 
+ D reconnects with an old friend. Weak and Avida chase a miracle cure.
+DTEND:20261020T202700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261020T200000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x07 - To the Depths With You
+UID:NzbDrone_episode_34157
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:A riot ignites on the streets as D digs deeper into Project Ca
+ pricorn's dark past. With time running out\, Avida and Weak fight for Tal
+ ia's future.
+DTEND:20261020T202700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261020T200000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x08 - Serce
+UID:NzbDrone_episode_34158
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:Omi and D go off the grid\, and Kiril takes Talia into custody
+ . Kyoko pushes Project Capricorn forward with frightening results.
+DTEND:20261020T202700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261020T200000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x09 - Strictly Reserved for You
+UID:NzbDrone_episode_34159
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DESCRIPTION:A chilling transformation turns the city into a war zone\, eru
+ pting in an explosive confrontation.
+DTEND:20261020T202700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261020T200000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cyberpunk: Edgerunners - 2x10 - Then Everyone Went Home
+UID:NzbDrone_episode_34160
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DTEND:20261021T015000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261021T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:VisionQuest - 1x03 - Reboot
+UID:NzbDrone_episode_39770
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DTEND:20261021T024000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261021T015000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:VisionQuest - 1x04 - Malware
+UID:NzbDrone_episode_39771
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DESCRIPTION:The safe house becomes unsafe as Lamb and Taverner finally joi
+ n forces.
+DTEND:20261021T044600Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261021T040000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Slow Horses - 6x06 - Judgement Day
+UID:NzbDrone_episode_38373
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FX
+DESCRIPTION:It's not a "Ren Fair."
+DTEND:20261022T015100Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261022T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lowdown (2025) - 2x03 - Truth's Easy
+UID:NzbDrone_episode_38981
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FX
+DESCRIPTION:When a charming stranger draws close to the Coven\, Madison di
+ scovers an unexpected side to him.
+DTEND:20261023T024400Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261023T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:American Horror Story - 13x11 - Madison’s Happy Ending
+UID:NzbDrone_episode_38972
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FX
+DESCRIPTION:Fiona confronts a family secret\, while the Coven prepares for
+  a foe worse than any they've faced.
+DTEND:20261023T032800Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261023T024400Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:American Horror Story - 13x12 - Sisters in Arms
+UID:NzbDrone_episode_38973
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Gizmoplex
+DESCRIPTION:Futuristic Science Fiction about a sport to the death\, using 
+ "destructocycles".
+DTEND:20261023T055300Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261023T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Mystery Science Theater 3000 - 14x02 - Deathsport
+UID:NzbDrone_episode_37437
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:Licking wounds and turning on each other after fleeing Frankie
+ 's assault\, Seraphina goes all in\, pitching the Harrigans on a global p
+ ower play\, while Maeve and Harry square off over crossed lines.
+DTEND:20261023T074700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261023T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:MobLand - 2x06 - A Different Corner
+UID:NzbDrone_episode_38739
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261023T072300Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261023T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x07 - What Lies Beneath
+UID:NzbDrone_episode_39251
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261023T074600Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261023T072300Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x08 - The Envoys (1)
+UID:NzbDrone_episode_39252
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261023T080900Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261023T074600Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x09 - The Envoys (2)
+UID:NzbDrone_episode_39253
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FOX
+DESCRIPTION:In this year's extra-scary\, ultra-spooky Treehouse of Horror\
+ , Marge gets a horrifying new perspective on marriage\; Bart and Santa's 
+ Little Helper embark on a bone-chilling adventure\; and Homer takes a dri
+ ving lesson.
+DTEND:20261026T002400Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261026T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Simpsons - 38x04 - Treehouse of Horror XXXVII
+UID:NzbDrone_episode_39625
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:When a woman disappears after helping a terrified teenage runa
+ way\, Colter uncovers a disturbing case of abuse and embarks on a despera
+ te search to save them both.
+DTEND:20261026T014200Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261026T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Tracker (2024) - 4x04 - Purification
+UID:NzbDrone_episode_39307
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:MGM+
+DESCRIPTION:Alliances fracture as the voyage wears on\; Bess and Graham pl
+ ay a cat-and-mouse game\, while Long John targets Jim\; when Graham makes
+  his move\, the truth surfaces\; the consequences are deadly and Jim is f
+ orced to take control of his fate.
+DTEND:20261026T024500Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261026T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Treasure Island (2026) - 1x03 - The Wide Eternal Sea
+UID:NzbDrone_episode_39790
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Channel 4
+DTEND:20261027T210000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261027T200000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Great British Bake Off - 17x06 - Pastry Week
+UID:NzbDrone_episode_38995
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DTEND:20261028T015000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261028T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:VisionQuest - 1x05 - Firewall
+UID:NzbDrone_episode_39772
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DTEND:20261028T024000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261028T015000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:VisionQuest - 1x06 - Deadlock
+UID:NzbDrone_episode_39773
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FX
+DESCRIPTION:Lee and the hogs.
+DTEND:20261029T015100Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261029T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lowdown (2025) - 2x04 - Raw Milk
+UID:NzbDrone_episode_38982
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FX
+DESCRIPTION:Cordelia's witches try their hardest to come together as their
+  chances to save the world grow dim.
+DTEND:20261030T024400Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261030T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:American Horror Story - 13x13 - Devil of a Good Time
+UID:NzbDrone_episode_38974
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Gizmoplex
+DESCRIPTION:Mystery Title (TBA)
+DTEND:20261030T055300Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261030T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Mystery Science Theater 3000 - 14x03 - Mystery Title
+UID:NzbDrone_episode_37438
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:The Harrigans lock down the Cotswolds and roll back into Londo
+ n to shake the tree -- buying loyalty with cash\, threats\, and broken fi
+ ngers. Maeve tightens the screws within the family\, while Harry walks in
+ to a trap.
+DTEND:20261030T074700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261030T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:MobLand - 2x07 - Ace of Spades
+UID:NzbDrone_episode_38740
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261030T072300Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261030T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x10 - Ghosts and Spirits
+UID:NzbDrone_episode_39254
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261030T072300Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261030T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x11 - Battle of the Ruins
+UID:NzbDrone_episode_39255
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261030T072300Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261030T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x12 - The Dome
+UID:NzbDrone_episode_39256
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261030T072300Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261030T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x13 - The Root Chakra
+UID:NzbDrone_episode_39257
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FOX
+DTEND:20261102T012400Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261102T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Simpsons - 38x05 - Testing 1-2-3
+UID:NzbDrone_episode_39626
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DTEND:20261102T025500Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261102T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Gilded Age - 4x01 - TBA
+UID:NzbDrone_episode_39044
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:After a military contractor's wife and daughter are kidnapped\
+ , Colter discovers Russell is investigating a related lead. The Shaw brot
+ hers join forces to uncover a high-stakes cover-up.
+DTEND:20261102T024200Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261102T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Tracker (2024) - 4x05 - Need to Know
+UID:NzbDrone_episode_39308
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:MGM+
+DESCRIPTION:Jim saves Long John's life\, knowing he still needs him\; Grah
+ am draws Jim into the world of San Domingue\, witnessing power\, politics
+  and revolution up close\; chaos erupts and Long John gains control of th
+ e ship - but Jim has an ace up his sleeve.
+DTEND:20261102T034500Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261102T030000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Treasure Island (2026) - 1x04 - Domingue
+UID:NzbDrone_episode_39791
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Channel 4
+DTEND:20261103T210000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261103T200000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Great British Bake Off - 17x07 - TBA
+UID:NzbDrone_episode_38996
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DTEND:20261104T025000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261104T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:VisionQuest - 1x07 - Immolation
+UID:NzbDrone_episode_39774
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FX
+DTEND:20261105T025100Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261105T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lowdown (2025) - 2x05 - TBA
+UID:NzbDrone_episode_38983
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:Harry's covert strike pours petrol on the escalating war. Eddi
+ e slides further off the rails under Maeve's manipulations. Bella and Ser
+ aphina plot a long game as Conrad starts to crack\, and a new adversary e
+ nters the frame.
+DTEND:20261106T084700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261106T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:MobLand - 2x08 - We Don't Talk Anymore
+UID:NzbDrone_episode_38741
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FOX
+DTEND:20261109T012400Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261109T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Simpsons - 38x06 - The Kosmic Kruiser
+UID:NzbDrone_episode_39803
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:MGM+
+DESCRIPTION:On Skeleton Island\, Jim leads the search for the treasure as 
+ tension and paranoia rise when the island's dark history emerges\; jockey
+ ing for control they finally reach the fortune - but an unexpected force 
+ intervenes before anyone can claim it.
+DTEND:20261109T034500Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261109T030000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Treasure Island (2026) - 1x05 - Skeleton Island
+UID:NzbDrone_episode_39792
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Channel 4
+DTEND:20261110T210000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261110T200000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Great British Bake Off - 17x08 - TBA
+UID:NzbDrone_episode_38997
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DTEND:20261111T025000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261111T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:VisionQuest - 1x08 - Forever
+UID:NzbDrone_episode_39775
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FX
+DTEND:20261112T025100Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261112T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lowdown (2025) - 2x06 - TBA
+UID:NzbDrone_episode_38984
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261113T084700Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261113T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:MobLand - 2x09 - TBA
+UID:NzbDrone_episode_38742
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FOX
+DTEND:20261116T012400Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261116T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Simpsons - 38x07 - Dream Scenari-Moe
+UID:NzbDrone_episode_39804
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:CBS
+DESCRIPTION:When Reenie enlists Colter’s help to locate her mentor’s estra
+ nged daughter\, the search uncovers a dangerous conspiracy.
+DTEND:20261116T024200Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261116T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Tracker (2024) - 4x06 - Blind Spot
+UID:NzbDrone_episode_39779
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:MGM+
+DESCRIPTION:Captive on Skeleton Island\, Jim turns the tables in an attemp
+ t to catch up to Long John before he can leave with the treasure\; back a
+ t sea\, alliances fracture and reunite\, binding the survivors together i
+ n a dangerous new partnership.
+DTEND:20261116T034500Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261116T030000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Treasure Island (2026) - 1x06 - A Princesa De Aveiro
+UID:NzbDrone_episode_39793
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Channel 4
+DTEND:20261117T210000Z
+DTSTAMP:20261021T110001Z
+DTSTART:20261117T200000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Great British Bake Off - 17x09 - TBA
+UID:NzbDrone_episode_38998
+END:VEVENT
+END:VCALENDAR
